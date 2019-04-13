@@ -1,0 +1,22 @@
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbprojAssemblyReference.cache
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.Resources.resources
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.GenerateResource.cache
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.xml
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.xml
+C:\Users\Raul\Desktop\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbprojAssemblyReference.cache
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.Resources.resources
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.GenerateResource.cache
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.xml
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+C:\Users\Raul\Desktop\2019\POO\Segundo periodo\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.xml
